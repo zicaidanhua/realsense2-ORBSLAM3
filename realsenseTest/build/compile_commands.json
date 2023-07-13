@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/flj/C++Project/realsenseTest/build",
+  "command": "/usr/bin/g++   -I../include -I/home/flj/ORB_SLAM3/include -I/home/flj/ORB_SLAM3/include/CameraModels -I/home/flj/ORB_SLAM3/Thirdparty/Sophus -I/home/flj/ORB_SLAM3/Thirdparty/g2o -I/home/flj/ORB_SLAM3 -isystem /usr/include/opencv4 -isystem /usr/include/eigen3  -std=c++11 -g   -o CMakeFiles/realsenseTest.dir/rs_mono.cpp.o -c /home/flj/C++Project/realsenseTest/rs_mono.cpp",
+  "file": "/home/flj/C++Project/realsenseTest/rs_mono.cpp"
+}
+]
